@@ -14,3 +14,8 @@ a {
 * {
   box-sizing: border-box;
 }
+
+body {
+	background: hsl(257, 8%, 36%);
+	color: hsl(0, 0%, 97%);
+}
